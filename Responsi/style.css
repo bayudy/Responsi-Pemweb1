@@ -1,0 +1,48 @@
+.banner{
+    background: url(https://img.freepik.com/free-photo/residential-modern-apartment-building_99097-61.jpg?size=626&ext=jpg&ga=GA1.2.1646586257.1645936531) no-repeat center center;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: #000;
+}
+
+.homefovere hr{
+    width: 400px;
+    border-top: 3px solid #000;
+}
+
+.homekamar hr{
+    width: 350px;
+    border-top: 3px solid #000;
+}
+
+.homelayanan hr{
+    width: 350px;
+    border-top: 3px solid #000;
+}
+
+.contactmaps hr{
+    width: 500px;
+    border-top: 3px solid #000;
+}
+
+
+.contactalamat hr{
+    width: 150px;
+    border-top: 3px solid #000;
+}
+
+.contactform hr{
+    width: 200px;
+    border-top: 3px solid #000;
+}
+
+.stdroom hr{
+    width: 300px;
+    border-top: 3px solid #000;
+}
+
+.stdreser hr{
+    width: 300px;
+    border-top: 3px solid #000;
+}
